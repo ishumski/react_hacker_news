@@ -1,0 +1,1 @@
+export const NEWS_LIMIT: number = 100
